@@ -1,0 +1,16 @@
+---
+version: WEBP
+book: 2 Chronicles
+chapter: 19
+---
+
+**19** <sup>1</sup> Jehoshaphat the king of Judah returned to his house in peace to Jerusalem. <sup>2</sup> Jehu the son of Hanani the seer went out to meet him, and said to King Jehoshaphat, “Should you help the wicked, and love those who hate the LORD? Because of this, wrath is on you from before the LORD. <sup>3</sup> Nevertheless there are good things found in you, in that you have put away the Asheroth out of the land, and have set your heart to seek God.”
+
+<sup>4</sup> Jehoshaphat lived at Jerusalem; and he went out again among the people from Beersheba to the hill country of Ephraim, and brought them back to the LORD, the God of their fathers. <sup>5</sup> He set judges in the land throughout all the fortified cities of Judah, city by city, <sup>6</sup> and said to the judges, “Consider what you do, for you don’t judge for man, but for the LORD; and he is with you in the judgment. <sup>7</sup> Now therefore let the fear of the LORD be on you. Take heed and do it; for there is no iniquity with the LORD our God, nor respect of persons, nor taking of bribes.”
+
+<sup>8</sup> Moreover in Jerusalem Jehoshaphat appointed certain Levites, priests, and heads of the fathers’ households of Israel to give judgment for the LORD and for controversies. They returned to Jerusalem. <sup>9</sup> He commanded them, saying, “You shall do this in the fear of the LORD, faithfully, and with a perfect heart. <sup>10</sup> Whenever any controversy comes to you from your brothers who dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, you must warn them, that they not be guilty toward the LORD, and so wrath come on you and on your brothers. Do this, and you will not be guilty. <sup>11</sup> Behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may the LORD be with the good.”
+
+---
+
+- [Previous](../2%20Chronicles/2%20Chronicles%2018.md)
+- [Next](../2%20Chronicles/2%20Chronicles%2020.md)

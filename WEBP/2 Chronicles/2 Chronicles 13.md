@@ -1,0 +1,20 @@
+---
+version: WEBP
+book: 2 Chronicles
+chapter: 13
+---
+
+**13** <sup>1</sup> In the eighteenth year of King Jeroboam, Abijah began to reign over Judah. <sup>2</sup> He reigned three years in Jerusalem. His mother’s name was Micaiah the daughter of Uriel of Gibeah. There was war between Abijah and Jeroboam. <sup>3</sup> Abijah joined battle with an army of valiant men of war, even four hundred thousand chosen men; and Jeroboam set the battle in array against him with eight hundred thousand chosen men, who were mighty men of valor. <sup>4</sup> Abijah stood up on Mount Zemaraim, which is in the hill country of Ephraim, and said, “Hear me, Jeroboam and all Israel: <sup>5</sup> Ought you not to know that the LORD, the God of Israel, gave the kingdom over Israel to David forever, even to him and to his sons by a covenant of salt? <sup>6</sup> Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, rose up, and rebelled against his lord. <sup>7</sup> Worthless men were gathered to him, wicked fellows who strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tender hearted, and could not withstand them.
+
+<sup>8</sup> “Now you intend to withstand the kingdom of the LORD in the hand of the sons of David. You are a great multitude, and the golden calves which Jeroboam made you for gods are with you. <sup>9</sup> Haven’t you driven out the priests of the LORD, the sons of Aaron, and the Levites, and made priests for yourselves according to the ways of the peoples of other lands? Whoever comes to consecrate himself with a young bull and seven rams may be a priest of those who are no gods.
+
+<sup>10</sup> “But as for us, the LORD is our God, and we have not forsaken him. We have priests serving the LORD, the sons of Aaron, and the Levites in their work. <sup>11</sup> They burn to the LORD every morning and every evening burnt offerings and sweet incense. They also set the show bread in order on the pure table, and care for the gold lamp stand with its lamps, to burn every evening; for we keep the instruction of the LORD our God, but you have forsaken him. <sup>12</sup> Behold, God is with us at our head, and his priests with the trumpets of alarm to sound an alarm against you. Children of Israel, don’t fight against the LORD, the God of your fathers; for you will not prosper.”
+
+<sup>13</sup> But Jeroboam caused an ambush to come about behind them; so they were before Judah, and the ambush was behind them. <sup>14</sup> When Judah looked back, behold, the battle was before and behind them; and they cried to the LORD, and the priests sounded with the trumpets. <sup>15</sup> Then the men of Judah gave a shout. As the men of Judah shouted, God struck Jeroboam and all Israel before Abijah and Judah. <sup>16</sup> The children of Israel fled before Judah, and God delivered them into their hand. <sup>17</sup> Abijah and his people killed them with a great slaughter, so five hundred thousand chosen men of Israel fell down slain. <sup>18</sup> Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied on the LORD, the God of their fathers. <sup>19</sup> Abijah pursued Jeroboam, and took cities from him: Bethel with its villages, Jeshanah with its villages, and Ephron with its villages.
+
+<sup>20</sup> Jeroboam didn’t recover strength again in the days of Abijah. The LORD struck him, and he died. <sup>21</sup> But Abijah grew mighty and took for himself fourteen wives, and became the father of twenty-two sons and sixteen daughters. <sup>22</sup> The rest of the acts of Abijah, his ways, and his sayings are written in the commentary of the prophet Iddo.
+
+---
+
+- [Previous](../2%20Chronicles/2%20Chronicles%2012.md)
+- [Next](../2%20Chronicles/2%20Chronicles%2014.md)

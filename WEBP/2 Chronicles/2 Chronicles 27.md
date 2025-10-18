@@ -1,0 +1,16 @@
+---
+version: WEBP
+book: 2 Chronicles
+chapter: 27
+---
+
+**27** <sup>1</sup> Jotham was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name was Jerushah the daughter of Zadok. <sup>2</sup> He did that which was right in the LORD’s eyes, according to all that his father Uzziah had done. However he didn’t enter into the LORD’s temple. The people still acted corruptly. <sup>3</sup> He built the upper gate of the LORD’s house, and he built much on the wall of Ophel. <sup>4</sup> Moreover he built cities in the hill country of Judah, and in the forests he built fortresses and towers. <sup>5</sup> He also fought with the king of the children of Ammon, and prevailed against them. The children of Ammon gave him the same year one hundred talents [^ref_1] of silver, ten thousand cors [^ref_2] of wheat, and ten thousand cors of barley. [^ref_3] The children of Ammon also gave that much to him in the second year, and in the third. <sup>6</sup> So Jotham became mighty, because he ordered his ways before the LORD his God. <sup>7</sup> Now the rest of the acts of Jotham, and all his wars and his ways, behold, they are written in the book of the kings of Israel and Judah. <sup>8</sup> He was twenty-five years old when he began to reign, and reigned sixteen years in Jerusalem. <sup>9</sup> Jotham slept with his fathers, and they buried him in David’s city; and Ahaz his son reigned in his place.
+
+---
+
+- [Previous](../2%20Chronicles/2%20Chronicles%2026.md)
+- [Next](../2%20Chronicles/2%20Chronicles%2028.md)
+
+[^ref_1]: A talent is about 30 kilograms or 66 pounds
+[^ref_2]: 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels. 10,000 cors of wheat would weigh about 1,640 metric tons.
+[^ref_3]: 10,000 cors of barley would weigh about 1,310 metric tons.

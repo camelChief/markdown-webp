@@ -1,0 +1,16 @@
+---
+version: WEBP
+book: Deuteronomy
+chapter: 8
+---
+
+**8** <sup>1</sup> You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which the LORD swore to your fathers. <sup>2</sup> You shall remember all the way which the LORD your God has led you these forty years in the wilderness, that he might humble you, to test you, to know what was in your heart, whether you would keep his commandments or not. <sup>3</sup> He humbled you, allowed you to be hungry, and fed you with manna, which you didn’t know, neither did your fathers know, that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of the LORD’s mouth. <sup>4</sup> Your clothing didn’t grow old on you, neither did your foot swell, these forty years. <sup>5</sup> You shall consider in your heart that as a man disciplines his son, so the LORD your God disciplines you. <sup>6</sup> You shall keep the commandments of the LORD your God, to walk in his ways, and to fear him. <sup>7</sup> For the LORD your God brings you into a good land, a land of brooks of water, of springs, and underground water flowing into valleys and hills; <sup>8</sup> a land of wheat, barley, vines, fig trees, and pomegranates; a land of olive trees and honey; <sup>9</sup> a land in which you shall eat bread without scarcity, you shall not lack anything in it; a land whose stones are iron, and out of whose hills you may dig copper. <sup>10</sup> You shall eat and be full, and you shall bless the LORD your God for the good land which he has given you.
+
+<sup>11</sup> Beware lest you forget the LORD your God, in not keeping his commandments, his ordinances, and his statutes, which I command you today; <sup>12</sup> lest, when you have eaten and are full, and have built fine houses and lived in them; <sup>13</sup> and when your herds and your flocks multiply, and your silver and your gold is multiplied, and all that you have is multiplied; <sup>14</sup> then your heart might be lifted up, and you forget the LORD your God, who brought you out of the land of Egypt, out of the house of bondage; <sup>15</sup> who led you through the great and terrible wilderness, with venomous snakes and scorpions, and thirsty ground where there was no water; who poured water for you out of the rock of flint; <sup>16</sup> who fed you in the wilderness with manna, which your fathers didn’t know, that he might humble you, and that he might prove you, to do you good at your latter end; <sup>17</sup> and lest you say in your heart, “My power and the might of my hand has gotten me this wealth.” <sup>18</sup> But you shall remember the LORD your God, for it is he who gives you power to get wealth, that he may establish his covenant which he swore to your fathers, as it is today.
+
+<sup>19</sup> It shall be, if you shall forget the LORD your God, and walk after other gods, and serve them and worship them, I testify against you today that you shall surely perish. <sup>20</sup> As the nations that the LORD makes to perish before you, so you shall perish, because you wouldn’t listen to the LORD your God’s voice.
+
+---
+
+- [Previous](../Deuteronomy/Deuteronomy%207.md)
+- [Next](../Deuteronomy/Deuteronomy%209.md)

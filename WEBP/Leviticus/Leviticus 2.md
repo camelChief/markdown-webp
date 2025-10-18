@@ -1,0 +1,20 @@
+---
+version: WEBP
+book: Leviticus
+chapter: 2
+---
+
+**2** <sup>1</sup> “‘When anyone offers an offering of a meal offering to the LORD, his offering shall be of fine flour. He shall pour oil on it, and put frankincense on it. <sup>2</sup> He shall bring it to Aaron’s sons, the priests. He shall take his handful of its fine flour, and of its oil, with all its frankincense, and the priest shall burn its memorial on the altar, an offering made by fire, of a pleasant aroma to the LORD. <sup>3</sup> That which is left of the meal offering shall be Aaron’s and his sons’. It is a most holy part of the offerings of the LORD made by fire.
+
+<sup>4</sup> “‘When you offer an offering of a meal offering baked in the oven, it shall be unleavened cakes of fine flour mixed with oil, or unleavened wafers anointed with oil. <sup>5</sup> If your offering is a meal offering made on a griddle, it shall be of unleavened fine flour, mixed with oil. <sup>6</sup> You shall cut it in pieces, and pour oil on it. It is a meal offering. <sup>7</sup> If your offering is a meal offering of the pan, it shall be made of fine flour with oil. <sup>8</sup> You shall bring the meal offering that is made of these things to the LORD. It shall be presented to the priest, and he shall bring it to the altar. <sup>9</sup> The priest shall take from the meal offering its memorial, and shall burn it on the altar, an offering made by fire, of a pleasant aroma to the LORD. <sup>10</sup> That which is left of the meal offering shall be Aaron’s and his sons’. It is a most holy part of the offerings of the LORD made by fire.
+
+<sup>11</sup> “‘No meal offering which you shall offer to the LORD shall be made with yeast; for you shall burn no yeast, nor any honey, as an offering made by fire to the LORD. <sup>12</sup> As an offering of first fruits you shall offer them to the LORD, but they shall not rise up as a pleasant aroma on the altar. <sup>13</sup> Every offering of your meal offering you shall season with salt. You shall not allow the salt of the covenant of your God [^ref_1] to be lacking from your meal offering. With all your offerings you shall offer salt.
+
+<sup>14</sup> “‘If you offer a meal offering of first fruits to the LORD, you shall offer for the meal offering of your first fruits fresh heads of grain parched with fire and crushed. <sup>15</sup> You shall put oil on it and lay frankincense on it. It is a meal offering. <sup>16</sup> The priest shall burn as its memorial part of its crushed grain and part of its oil, along with all its frankincense. It is an offering made by fire to the LORD.
+
+---
+
+- [Previous](../Leviticus/Leviticus%201.md)
+- [Next](../Leviticus/Leviticus%203.md)
+
+[^ref_1]: The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).
