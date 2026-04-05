@@ -1,0 +1,15 @@
+# 2 Corinthians
+
+- [[2 Corinthians 1|Chapter 1]]
+- [[2 Corinthians 2|Chapter 2]]
+- [[2 Corinthians 3|Chapter 3]]
+- [[2 Corinthians 4|Chapter 4]]
+- [[2 Corinthians 5|Chapter 5]]
+- [[2 Corinthians 6|Chapter 6]]
+- [[2 Corinthians 7|Chapter 7]]
+- [[2 Corinthians 8|Chapter 8]]
+- [[2 Corinthians 9|Chapter 9]]
+- [[2 Corinthians 10|Chapter 10]]
+- [[2 Corinthians 11|Chapter 11]]
+- [[2 Corinthians 12|Chapter 12]]
+- [[2 Corinthians 13|Chapter 13]]
