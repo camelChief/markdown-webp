@@ -1,0 +1,16 @@
+# Hosea
+
+- [[Hosea 1|Chapter 1]]
+- [[Hosea 2|Chapter 2]]
+- [[Hosea 3|Chapter 3]]
+- [[Hosea 4|Chapter 4]]
+- [[Hosea 5|Chapter 5]]
+- [[Hosea 6|Chapter 6]]
+- [[Hosea 7|Chapter 7]]
+- [[Hosea 8|Chapter 8]]
+- [[Hosea 9|Chapter 9]]
+- [[Hosea 10|Chapter 10]]
+- [[Hosea 11|Chapter 11]]
+- [[Hosea 12|Chapter 12]]
+- [[Hosea 13|Chapter 13]]
+- [[Hosea 14|Chapter 14]]
